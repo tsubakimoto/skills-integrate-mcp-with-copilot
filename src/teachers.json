@@ -1,0 +1,12 @@
+{
+  "teachers": [
+    {
+      "username": "smith@mergington.edu",
+      "password": "MergingtonTeacher2025!"
+    },
+    {
+      "username": "jones@mergington.edu",
+      "password": "MergingtonTeacher2025!"
+    }
+  ]
+}
